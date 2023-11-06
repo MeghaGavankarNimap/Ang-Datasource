@@ -1,0 +1,20 @@
+{
+    "information":[
+        {
+            "First Name":"Megha",
+            "Last Name":"Gavankar",
+            "tech" :"Angular",
+            "Location":"Mumbai",
+            "Date Of Joining":"6th May"
+        
+        },
+        {
+            "First Name":"Teja",
+            "Last Name":"Navale",
+            "tech" :"UI-UX",
+            "Location":"Pune",
+            "Date Of Joining":"10th October"
+        
+        }
+    ]
+}
